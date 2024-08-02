@@ -13,7 +13,7 @@
 
 
 **Contenidos**
-- [1. Pihole y WireGuard](#1-pihole-y-wireguard)
+- [1. Docker Pihole y WireGuard](#1-docker-pihole-y-wireguard)
 - [2. DNS dinámico](#2-dns-dinámico)
 - [3. Instalación](#3-instalación)
 - [4. Ejecutar](#4-ejecutar)
@@ -23,7 +23,7 @@
 - [6. Actualizar DNS Dinámico automáticamente](#6-actualizar-dns-dinámico-automáticamente)
 
 
-# 1. Pihole y WireGuard
+# 1. Docker Pihole y WireGuard
 - Permite crear una **VPN WireGuard** y enlazarla con **Pihole** mediante **Docker** en una **Raspberry Pi**
 
 
